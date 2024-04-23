@@ -1,6 +1,7 @@
-Meu Primeiro RepositÛrio 
+Meu Primeiro Reposit√≥rio 
 ======================== 
 
-O Git/GitHub s„o legais!
+O Git/GitHub s√£o legais!
+Atualizado para a Vers√£o 2.0 - Atualizado pelo GitHub.
 
 Alfredo Cezar Benedetti
