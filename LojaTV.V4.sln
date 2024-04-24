@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaTV.V4", "LojaTV.V4.csproj", "{15A7DD40-D45C-4313-8511-A9793D0FE744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A7DD40-D45C-4313-8511-A9793D0FE744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A7DD40-D45C-4313-8511-A9793D0FE744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A7DD40-D45C-4313-8511-A9793D0FE744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A7DD40-D45C-4313-8511-A9793D0FE744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F01F7C5-7581-4AE3-AE73-FFEEEC946A63}
+	EndGlobalSection
+EndGlobal
